@@ -36,7 +36,7 @@ onMounted(() => {
 
 <template>
     <a
-        href="https://github.com/waylaidwanderer/PandoraAI"
+        href="https://github.com/mrjuice01/Parandoya-AI"
         target="_blank"
         id="fork-corner"
         class="fork-corner fc-size-small fc-pos-tr fc-animate fc-theme-github"
@@ -95,8 +95,8 @@ onMounted(() => {
             <footer class="px-3 pb-6 text-center">
                 <span class="text-xs font-light text-slate-400">
                     powered by
-                    <a href="https://github.com/waylaidwanderer/node-chatgpt-api" target="_blank">
-                        https://github.com/waylaidwanderer/node-chatgpt-api
+                    <a href="https://github.com/mrjuice01/Parandoya-AI" target="_blank">
+                        Mr Juice
                     </a>
                 </span>
             </footer>
